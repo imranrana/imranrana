@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 
 I’m **Sk Imran Hossain**, an **Associate Professor** in the **Department of Computer Science and Engineering (CSE)** at **Khulna University of Engineering & Technology (KUET), Bangladesh**. I used to work as an Software Engineer at Samsung R&D Center, Bangladesh and completed my PhD from UCA, France. My expertise lies in **medical informatics**, **deep learning**, and **optimization techniques**, with a focus on applying AI to address real-world healthcare challenges. 
 
